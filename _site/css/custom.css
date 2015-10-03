@@ -1,0 +1,14 @@
+.site-nav {
+  display: flex;
+  flex-direction: row;
+}
+
+.page-link {
+  flex: 1;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.page-link a {
+  text-decoration: none;
+}
